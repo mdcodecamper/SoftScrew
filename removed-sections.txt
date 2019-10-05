@@ -111,3 +111,314 @@
             </div>
         </div>
         <!-- End Pricing -->
+
+
+
+
+
+
+          <!-- Work -->
+    <div id="work">
+        <div class="section-seperator">
+            <div class="content-md container">
+                <div class="row margin-b-40">
+                    <div class="col-sm-12">
+                        <h2>Portfolio</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
+                    </div>
+                </div>
+                <!--// end row -->
+
+                <!-- Masonry Grid -->
+                <div class="masonry-grid row">
+
+
+                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 md-margin-b-30">
+                        <!-- Work -->
+                        <div class="work work-popup-trigger">
+                            <div class="work-overlay">
+                                <img class="full-width img-responsive" src="img/tbn24-main.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="work-popup-overlay">
+                                <div class="work-popup-content">
+                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
+                                    <div class="margin-b-30">
+                                        <h3 class="margin-b-5">Mpobile Application for Live Streaming Channel</h3>
+
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <div class="margin-t-10 sm-margin-t-0">
+                                                    <p class="margin-b-5"><strong>Project Scope:</strong> Need to build a Mobile application for Live Streaming Channel</p>
+                                                    <p class="margin-b-5"><strong>Solution Type:</strong> Live Streaming Mobile Application</p>
+                                                    <p class="margin-b-5"><strong>Solution Industry:</strong> Media</p>
+                                                    <br>
+                                                    <p class="margin-b-5"><strong>Web Technologies:</strong> JSP, Php, MYSQL, HTML5, CSS3, JQuery</p>
+                                                    <p class="margin-b-5"><strong>Mobile Technologies:</strong> Android, iOS</p>
+                                                    <p class="margin-b-5"><strong>Design Framework:</strong> Photoshop, Fireworks, Sketch</p>
+                                                </div>
+
+                                                <ul class="list-inline work-popup-tag">
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Mobile App,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Desktop Client,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Live Streaming</a></li>
+
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p class="margin-b-5"><strong>Project Manager:</strong> Boris Becker</p>
+                                                <p class="margin-b-5"><strong>Executive:</strong> Heike Macatsch</p>
+                                                <p class="margin-b-5"><strong>Architect:</strong> Oliver Pocher</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> TBN24</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Work -->
+                    </div>
+                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 md-margin-b-30">
+                        <!-- Work -->
+                        <div class="work work-popup-trigger">
+                            <div class="work-overlay">
+                                <img class="full-width img-responsive" src="img/Dine-In-Info.png" alt="Portfolio Image">
+                            </div>
+                            <div class="work-popup-overlay">
+                                <div class="work-popup-content">
+                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
+                                    <div class="margin-b-30">
+                                        <h3 class="margin-b-5">Restaurant Management Software</h3>
+                                        <span>Clean &amp; Minimalistic Design</span>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p class="margin-b-5"><strong>Project Scope:</strong> Need to build a POS Restaurant Management Application for couple of restaurant</p>
+                                                <p class="margin-b-5"><strong>Solution Type:</strong> POS Application</p>
+                                                <p class="margin-b-5"><strong>Solution Industry:</strong> Service</p>
+                                                <br>
+                                                <p class="margin-b-5"><strong>Web Technologies:</strong> NodeJS, Vend</p>
+                                                <p class="margin-b-5"><strong>Design Framework:</strong> Photoshop, Fireworks, Sketch</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p class="margin-b-5"><strong>Project Manager:</strong> Ariana Dawson</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> Bhojon</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Work -->
+                    </div>
+                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
+                        <!-- Work -->
+                        <div class="work work-popup-trigger">
+                            <div class="work-overlay">
+                                <img class="full-width img-responsive" src="img/Payrollproject.jpg" alt="Portfolio Image">
+                            </div>
+                            <div class="work-popup-overlay">
+                                <div class="work-popup-content">
+                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
+                                    <div class="margin-b-30">
+                                        <h3 class="margin-b-5">Payroll Management System</h3>
+
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <div class="margin-t-10 sm-margin-t-0">
+                                                    <p class="margin-b-5"><strong>Project Scope:</strong> Need to build a Payroll Management application for a Consulting Company</p>
+                                                    <p class="margin-b-5"><strong>Solution Type:</strong> Payroll Management Application</p>
+                                                    <p class="margin-b-5"><strong>Solution Industry:</strong> Service</p>
+                                                    <br>
+                                                    <p class="margin-b-5"><strong>Web Technologies:</strong> JSP, Php, MYSQL, HTML5, CSS3, JQuery</p>
+                                                    <p class="margin-b-5"><strong>Mobile Technologies:</strong> Android, iOS</p>
+                                                    <p class="margin-b-5"><strong>Design Framework:</strong> Photoshop, Fireworks, Sketch</p>
+                                                </div>
+
+                                                <ul class="list-inline work-popup-tag">
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Strategy,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Implementation,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Credentials</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p class="margin-b-5"><strong>Project Manager:</strong> Golam Rabbani</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> Bruteforce Solutions</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Work -->
+                    </div>
+                    <div class="masonry-grid-sizer col-xs-6 col-sm-6 col-md-1"></div>
+                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 margin-b-30">
+                        <!-- Work -->
+                        <div class="work work-popup-trigger">
+                            <div class="work-overlay">
+                                <img class="full-width img-responsive" src="img/infrabids.png" alt="Portfolio Image">
+                            </div>
+                            <div class="work-popup-overlay">
+                                <div class="work-popup-content">
+                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
+                                    <div class="margin-b-30">
+                                        <h3 class="margin-b-5">WebSite Design</h3>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <div class="margin-t-10 sm-margin-t-0">
+                                                    <p class="margin-b-5"><strong>Project Scope:</strong> Need to design and build web site for a Consulting Company</p>
+                                                    <p class="margin-b-5"><strong>Solution Type:</strong> Web Site Design</p>
+                                                    <p class="margin-b-5"><strong>Solution Industry:</strong> Service</p>
+                                                    <br>
+                                                    <p class="margin-b-5"><strong>Web Technologies:</strong> Php, MYSQL, HTML5, CSS3, JQuery</p>
+                                                    <p class="margin-b-5"><strong>Mobile Technologies:</strong> Android, iOS</p>
+                                                    <p class="margin-b-5"><strong>Design Framework:</strong> Photoshop, Fireworks, Sketch</p>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Work -->
+                    </div>
+                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-8 margin-b-30">
+                        <!-- Work -->
+                        <div class="work work-popup-trigger">
+                            <div class="work-overlay">
+                                <img class="full-width img-responsive" src="img/prime-site.png" alt="Portfolio Image">
+                            </div>
+                            <div class="work-popup-overlay">
+                                <div class="work-popup-content">
+                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
+                                    <div class="margin-b-30">
+                                        <h3 class="margin-b-5">Art Of Coding</h3>
+                                        <span>Clean &amp; Minimalistic Design</span>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+                                                    laborum.
+                                                </p>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                <ul class="list-inline work-popup-tag">
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Strategy,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Implementation,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Credentials</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p class="margin-b-5"><strong>Project Manager:</strong> Boris Becker</p>
+                                                <p class="margin-b-5"><strong>Executive:</strong> Heike Macatsch</p>
+                                                <p class="margin-b-5"><strong>Architect:</strong> Oliver Pocher</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> FairTech</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Work -->
+                    </div>
+
+                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-8 margin-b-30">
+                        <!-- Work -->
+                        <div class="work work-popup-trigger">
+                            <div class="work-overlay">
+                                <img class="full-width img-responsive" src="img/prime-site.png" alt="Portfolio Image">
+                            </div>
+                            <div class="work-popup-overlay">
+                                <div class="work-popup-content">
+                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
+                                    <div class="margin-b-30">
+                                        <h3 class="margin-b-5">Art Of Coding</h3>
+                                        <span>Clean &amp; Minimalistic Design</span>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+                                                    laborum.
+                                                </p>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+                                                <ul class="list-inline work-popup-tag">
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Strategy,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Implementation,</a></li>
+                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Credentials</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p class="margin-b-5"><strong>Project Manager:</strong> Boris Becker</p>
+                                                <p class="margin-b-5"><strong>Executive:</strong> Heike Macatsch</p>
+                                                <p class="margin-b-5"><strong>Architect:</strong> Oliver Pocher</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> FairTech</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Work -->
+                    </div>
+                </div>
+                <!-- End Masonry Grid -->
+            </div>
+        </div>
+
+        <!-- Clients -->
+        <div class="content-lg container">
+            <!-- Swiper Clients -->
+            <div class="swiper-slider swiper-clients">
+                <!-- Swiper Wrapper -->
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img class="swiper-clients-img" src="img/clients/infrabids.png" alt="Infrabids Logo">
+                    </div>
+                    <div class="swiper-slide">
+                        <img class="swiper-clients-img" src="img/clients/tbn24.png" alt="TBN24 Logo">
+                    </div>
+                    <div class="swiper-slide">
+                        <img class="swiper-clients-img" src="img/clients/zexylogo.png" alt="ZexyLogo Logo">
+                    </div>
+                    <div class="swiper-slide">
+                        <img class="swiper-clients-img" src="img/clients/lfbs5.png" alt="Lifeboy School of 5 Logo">
+                    </div>
+                    <div class="swiper-slide">
+                        <img class="swiper-clients-img" src="img/clients/sandeep.png" alt="Sandeep Herbal Ayurvedic Logo">
+                    </div>
+                    <div class="swiper-slide">
+                        <img class="swiper-clients-img" src="img/clients/prime.png" alt="Prime Printing & Binding Logo">
+                    </div>
+                    <div class="swiper-slide">
+                        <img class="swiper-clients-img" src="img/clients/BDS.png" alt="Bangladesh Dental Society Logo">
+                    </div>
+                </div>
+                <!-- End Swiper Wrapper -->
+            </div>
+            <!-- End Swiper Clients -->
+        </div>
+        <!-- End Clients -->
+    </div>
+    <!-- End Work -->
